@@ -15,7 +15,7 @@ We are particularly interested in leveraging the interesting aspects of natural 
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="10.1073/pnas.2201521119" style="rich" %}
 
 {% include section.html %}
 
