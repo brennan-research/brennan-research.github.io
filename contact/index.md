@@ -7,27 +7,32 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group at GEOMAR is part of [Research Division 3: Marine Ecology](https://www.geomar.de/en/research/fb3/overview).
+
+## Mailing Address
+
+Mailing address Until fall 2023, when we move to a new building on the east shore: 
+  GEOMAR Helmholtz Centre for Ocean Research Kiel
+  Düsternbrooker Weg 20, 24105 Kiel
+  Germany
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="rbrennan@geomar.de"
+  link="rbrennan@geomar.de"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+49 431 600-4557"
+  link="+494316004557"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://goo.gl/maps/7yESWeacaHSWW3Sr8)"
 %}
 
 {% include section.html %}
