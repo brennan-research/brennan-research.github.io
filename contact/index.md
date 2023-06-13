@@ -30,7 +30,5 @@ Mailing address Until fall 2023, when we move to a new building on the east shor
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://goo.gl/maps/7yESWeacaHSWW3Sr8)"
+  link="https://goo.gl/maps/7yESWeacaHSWW3Sr8"
 %}
-
-{% include section.html %}
