@@ -9,8 +9,6 @@ nav:
 
 Our group at GEOMAR is part of [Research Division 3: Marine Ecology](https://www.geomar.de/en/research/fb3/overview).
 
-## Mailing Address
-
 Mailing address Until fall 2023, when we move to a new building on the east shore: 
   GEOMAR Helmholtz Centre for Ocean Research Kiel
   Düsternbrooker Weg 20, 24105 Kiel
@@ -35,3 +33,4 @@ Mailing address Until fall 2023, when we move to a new building on the east shor
   link="[https://www.google.com/maps](https://goo.gl/maps/7yESWeacaHSWW3Sr8)"
 %}
 
+{% include section.html %}
