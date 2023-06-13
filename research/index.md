@@ -12,17 +12,3 @@ The marine ecological and evolutionary genomics group at GEOMAR seeks to underst
 We are particularly interested in leveraging the interesting aspects of natural systems, such as salinity and temperature gradients, along with techniques such as experimental evolution in the lab to understand adaptive processes. 
 
 {% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="10.1073/pnas.2201521119" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
