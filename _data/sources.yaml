@@ -11,10 +11,6 @@
       link: https://github.com/greenelab/meta-review
     - type: website
       link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
 
 - id: 10.1038/s41467-022-28742-6
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
