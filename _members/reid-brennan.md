@@ -1,6 +1,6 @@
 ---
 name: Reid Brennan
-image: images/Brennan_small.jpeg
+image: images/Brennan_small.jpg
 role: pi
 aliases:
 links:
