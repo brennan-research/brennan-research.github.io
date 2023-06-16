@@ -13,7 +13,6 @@ Please get in touch if you would like a PDF of any manuscripts.
   link="4Ykg3a0AAAAJ&hl"
   tooltip="Link to google scholar profile"
   flip=true
-  style="bare"
 %}
 
 
