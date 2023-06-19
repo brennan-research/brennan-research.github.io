@@ -1,11 +1,15 @@
 ---
 ---
 
-# Marine ecological and evolutionary genomics
+# Ecological and evolutionary genomics at GEOMAR
 
-The marine ecological and evolutionary genomics group at GEOMAR seeks to understand how species rapidly evolve across environmental and temporal gradients and in response to changing environments due to human driven global change. We focus on marine zooplankton and fish and use diverse approaches including physiological, transcriptomic, and population genomics to investigate the mechanistic and evolutionary underpinnings of ecologically relevant traits.
+The ecological and evolutionary genomics group at [GEOMAR](https://www.geomar.de/en/) seeks to understand how species rapidly evolve across environmental and temporal gradients and in response to changing environments due to human driven global change. 
+
+We focus on marine zooplankton and fish and use diverse approaches including physiological, transcriptomic, and population genomics to investigate the mechanistic and evolutionary underpinnings of ecologically relevant traits.
 
 We are particularly interested in leveraging the interesting aspects of natural systems, such as salinity and temperature gradients, along with techniques such as experimental evolution in the lab to understand adaptive processes.
+
+For more information read about our [research](https://brennan-research.github.io/research/) or find our [publications here](https://brennan-research.github.io/publications/). Or don't hesistate to [get in touch!](https://brennan-research.github.io/contact/). 
 
 {% include section.html %}
 
@@ -28,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cope1.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -61,13 +65,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
@@ -76,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cope1.jpg"
   link="team"
   title="Our Team"
   text=text
