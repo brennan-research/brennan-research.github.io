@@ -13,4 +13,4 @@ We are particularly interested in leveraging the interesting aspects of natural 
 
 {% include section.html %}
 
-https://youtu.be/YrI2188-ejM
+![](https://youtu.be/YrI2188-ejM)
