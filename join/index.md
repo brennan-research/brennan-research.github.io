@@ -5,6 +5,8 @@ nav:
   tooltip: Join the group
 ---
 
+# Join the group
+
 Thanks for your interest in the group! Before continuing, I encourage you to take a close look at our ongoing research and publications to make sure our interests align. 
 
 Still interested, see below!
