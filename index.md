@@ -29,7 +29,7 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
 
 {%
   include feature.html
-  image="images/cope1.jpg"
+  image="images/covariance_heatmap.jpg"
   link="research"
   title="Want to know more about our work?"
   text=text
@@ -37,12 +37,10 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="read our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
@@ -51,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/cope1.jpg"
+  link="publications"
+  title="Looking for our papers?"
   flip=true
   style="bare"
   text=text
@@ -61,12 +59,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="team"
+  text="meet the team"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
@@ -75,8 +71,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/background.jpg"
+  link="team"
+  title="Get to know us"
   text=text
 %}
