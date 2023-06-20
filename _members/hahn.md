@@ -1,7 +1,7 @@
 ---
 name: Alexandra Hahn
 image: images/Hahn.jpg
-role: PhD Student
+role: phd
 aliases:
 links:
 ---
