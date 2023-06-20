@@ -17,33 +17,6 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-
-
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="research"
@@ -58,72 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/cope1.jpg"
   link="research"
-  title="Want to know more?"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet the team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/cope1.jpg"
-  link="team"
-  title="Get to know us"
-  text=text
-%}
-
-{% capture text %}
-
-{%
-  include button.html
-  link="publications"
-  text="Read our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/cope1.jpg"
-  link="publications"
-  title="Read our publications"
-  text=text
-%}
-
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  title="Want to know more about our work?"
   text=text
 %}
 
