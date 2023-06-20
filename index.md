@@ -12,3 +12,46 @@ We are particularly interested in leveraging the interesting aspects of natural 
 For more information read about our [research](https://brennan-research.github.io/research/) or find our [publications here](https://brennan-research.github.io/publications/). Or don't hesistate to [get in touch!](https://brennan-research.github.io/contact/). 
 
 Do our interests match? [See here](https://brennan-research.github.io/join/) for opportunities to join the lab. 
+
+{% include section.html %}
+
+{% capture text %}
+
+{%
+  include button.html
+  link="publications"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/cope1.jpg"
+  link="research"
+  title="Learn about our Research"
+  text=text
+%}
+
+{% capture text %}
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/cope1.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
