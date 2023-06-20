@@ -81,7 +81,7 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
 
 {%
   include button.html
-  link="publications"
+  link="join"
   text="join the lab"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -92,7 +92,7 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
 {%
   include feature.html
   image="images/cope2.JPG"
-  link="publications"
+  link="join"
   title="Do our interests match?"
   flip=true
   style="bare"
