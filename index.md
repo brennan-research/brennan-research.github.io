@@ -20,7 +20,7 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
 {%
   include button.html
   link="research"
-  text="Learn about our research"
+  text="learn about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
@@ -73,6 +73,28 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
   include feature.html
   image="images/background.jpg"
   link="team"
-  title="Get to know us"
+  title="Who are we?"
+  text=text
+%}
+
+{% capture text %}
+
+{%
+  include button.html
+  link="publications"
+  text="join the lab"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/cope2.jpg"
+  link="publications"
+  title="Do our interests match?"
+  flip=true
+  style="bare"
   text=text
 %}
