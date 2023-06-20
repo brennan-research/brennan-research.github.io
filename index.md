@@ -66,7 +66,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet members of the group"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="join"
+  text="Join the team!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
