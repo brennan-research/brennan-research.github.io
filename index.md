@@ -13,8 +13,6 @@ For more information read about our [research](https://brennan-research.github.i
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -69,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-left"
+  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
