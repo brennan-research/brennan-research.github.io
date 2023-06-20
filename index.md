@@ -19,8 +19,8 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
 
 {%
   include button.html
-  link="publications"
-  text="See our publications"
+  link="researc"
+  text="Learn about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
