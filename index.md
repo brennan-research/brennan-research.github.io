@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/cope1.jpg"
+  image="images/background.jpg"
   link="research"
   title="Our Research"
   text=text
