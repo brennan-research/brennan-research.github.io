@@ -72,6 +72,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   style="bare"
 %}
 
+{% endcapture %}
+{% capture text %}
+  
 {%
   include button.html
   link="join"
