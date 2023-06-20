@@ -91,7 +91,7 @@ Do our interests match? [See here](https://brennan-research.github.io/join/) for
 
 {%
   include feature.html
-  image="images/cope2.jpg"
+  image="images/cope2.JPG"
   link="publications"
   title="Do our interests match?"
   flip=true
