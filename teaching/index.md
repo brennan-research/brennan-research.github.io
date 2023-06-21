@@ -5,8 +5,6 @@ nav:
   tooltip: Courses taught at GEOMAR
 ---
 
-I currently teach the following courses:
-
 ## Fundamentals of population genomics:
 
 Msc course designed to give background and practical experience in population genomics. The goal is that students are able to analyze and interpret population genomic data by the end of the course. This will require gaining practical skills in bioinformatic methods as well as knowledge of the biology to be able to interpret results and analyses.
