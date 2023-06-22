@@ -71,7 +71,7 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
 
 {%
   include feature.html
-  image="images/background.jpg"
+  image="images/Eurytemora_female.jpg"
   link="team"
   title="Who are we?"
   text=text
