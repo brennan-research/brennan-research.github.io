@@ -1,7 +1,7 @@
 ---
 name: Sophia Bach
 image: images/cope2.JPG
-role: msc
+role: intern
 aliases:
 links:
 ---
