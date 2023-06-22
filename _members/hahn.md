@@ -1,4 +1,4 @@
-![image](https://github.com/brennan-research/brennan-research.github.io/assets/13488648/863a14dd-f7c4-4445-b5f3-f96d76d0d4df)---
+---
 name: Alexandra Hahn
 image: images/Hahn.jpg
 role: phd
