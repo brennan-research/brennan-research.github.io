@@ -5,7 +5,7 @@ nav:
   tooltip: Learn about research in the group
 ---
 
-# Research
+{% include figure.html image="images/foodchain.jpg" width="100%" %}
 
 The marine ecological and evolutionary genomics group at GEOMAR seeks to understand how species rapidly evolve across environmental and temporal gradients and in response to changing environments due to human driven global change. We focus on marine zooplankton and fish and use diverse approaches including physiological, transcriptomic, and population genomics to investigate the mechanistic and evolutionary underpinnings of ecologically relevant traits.  
 
