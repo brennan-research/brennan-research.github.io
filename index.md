@@ -11,6 +11,8 @@ We are particularly interested in leveraging the interesting aspects of natural 
 
 For more information don't hesistate to [get in touch!](https://brennan-research.github.io/contact/). 
 
+Note that any drawings found on this site are courtesy of the very talented [Alexandra Hahn](https://brennan-research.github.io/members/hahn.html)! 
+
 {% include section.html %}
 
 {% capture text %}
