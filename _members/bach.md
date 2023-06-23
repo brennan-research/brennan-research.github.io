@@ -1,6 +1,6 @@
 ---
 name: Sophia Bach
-image: images/bach.heic
+image: images/Bach.jpg
 role: intern
 aliases:
 links:
