@@ -9,3 +9,6 @@ nav:
 
 
 
+## Lab Alumni
+
+Myria Schröder: Summer 2022 intern. Currently in the Masters Program at Leipzig University.
