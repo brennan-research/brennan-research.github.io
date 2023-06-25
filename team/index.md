@@ -9,7 +9,7 @@ nav:
 {% include list.html data="members" component="portrait" %}
 
 
-## Where are we from?
+<br>
 
 We are a diverse and international group of scientists from across the world. Interested in expanding the group, [join us](https://brennan-research.github.io/join/)!
 
