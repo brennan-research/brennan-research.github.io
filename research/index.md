@@ -40,5 +40,3 @@ Populations regularly experience huge environmental fluctuations across time, bo
 Ongoing work in the lab is focusing on seasonal changes in body size [Gianina Consing](https://brennan-research.github.io/members/gianina-consing.html), temperature tolerance [Sophia Bach](https://brennan-research.github.io/members/bach.html) and [Alexandra Hahn](https://brennan-research.github.io/members/hahn.html), and allele frequencies across multiple species of marine copepods through time (Incoming postdoc Jenny Nascimento-Schulze)
 
 We are leveraging temporal samples of multiple zooplankton species from 2005 to present to determine if there is consistent fluctuating selection due to seasonal fluctuations across years. We are also interested if temperature changes through time might be driving directional selection at these same loci. Ongoing and planned experimental work will further determine the extent to which adaptation to fluctuating and increased future temperatures relies on these same loci under fluctuating selection. 
-
-
