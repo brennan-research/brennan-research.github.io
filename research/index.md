@@ -15,7 +15,7 @@ We are particularly interested in leveraging the interesting aspects of natural 
 
 ## Susceptibility and resilience to global change
 
-As the environment rapidly change due to human causes, it is essential to understand how populations may respond. These responses can consist of adaptation, plasticity, or a combination of the two (in addition to migration or extinction). We use a variety of approaches to predict the relative impact of these different mechanisms to determine if and how ecosystems may be resilience to global change.
+As the environment rapidly changes due to human causes, it is essential to understand how populations may respond. These responses can consist of adaptation, plasticity, or a combination of the two (in addition to migration or extinction). We use a variety of approaches to predict the relative impact of these different mechanisms to determine if and how ecosystems may be resilient to global change.
 
 ### experimental evolution 
 
@@ -31,12 +31,12 @@ See the video below for a brief summary of some of this past work.
 
 ### Predictions of local adaptation and susceptibility to global change
 
-To effectively manage species, it is fundamental to be able to make predictions concerning the susceptibility of populations to predicted future conditions. One particularly promising method to do this is using genomic vulnerability, or predictions of susceptibility using only patterns of genetic variation in the wild. With funding from the [DFG](https://www.dfg.de/en/index.jsp), we are quantifying the degree of local adaptation and predicting and testing the genomic vulnerability of the copepod Acartia tonsa across the Baltic Sea. This work will help further our ability to make accurate predictions of susceptibility of populations to ongoing changing conditions. [Alexandra Hahn](https://brennan-research.github.io/members/hahn.html) is leading this work.
+To effectively manage species, it is fundamental to be able to make predictions concerning the susceptibility of populations to predicted future conditions. One particularly promising method to do this is genomic vulnerability, or predictions of susceptibility using only patterns of genetic variation in the wild. With funding from the [DFG](https://www.dfg.de/en/index.jsp), we are quantifying the degree of local adaptation and predicting and testing the genomic vulnerability of the copepod Acartia tonsa across the Baltic Sea. This work will help further our ability to make accurate predictions of susceptibility of populations to ongoing changing conditions. [Alexandra Hahn](https://brennan-research.github.io/members/hahn.html) is leading this work.
 
 ## Temporal genomics and fluctuating selection
 
-Populations regularly experience huge environmental fluctuations across time, both within and across years. It has recently been shown that seasonal fluctuations likely contribute to the maintenance of adaptive genetic variation in fruitflies. We might also predict that this same adaptive genetic variation would contribute to global change adaptation, particularly for stressors such as temperature.
+Populations regularly experience huge environmental fluctuations across time, both within and across years. These seasonal fluctuations likely contribute to the maintenance of adaptive genetic variation. We might also predict that this same adaptive genetic variation would contribute to global change adaptation, particularly for stressors such as temperature.
 
-Ongoing work in the lab is focusing on seasonal changes in body size ([Gianina Consing](https://brennan-research.github.io/members/gianina-consing.html)), temperature tolerance ([Sophia Bach](https://brennan-research.github.io/members/bach.html)) and ([Alexandra Hahn](https://brennan-research.github.io/members/hahn.html)), and allele frequencies across multiple species of marine copepods through time (Incoming postdoc Jenny Nascimento-Schulze)
+Ongoing work in the lab is focusing on seasonal changes in body size ([Gianina Consing](https://brennan-research.github.io/members/gianina-consing.html)), temperature tolerance ([Sophia Bach](https://brennan-research.github.io/members/bach.html) and [Alexandra Hahn](https://brennan-research.github.io/members/hahn.html)), and allele frequencies across multiple species of marine copepods through time (Incoming postdoc Jenny Nascimento-Schulze)
 
 We are leveraging temporal samples of multiple zooplankton species from 2005 to present to determine if there is consistent fluctuating selection due to seasonal fluctuations across years. We are also interested if temperature changes through time might be driving directional selection at these same loci. Ongoing and planned experimental work will further determine the extent to which adaptation to fluctuating and increased future temperatures relies on these same loci under fluctuating selection. 
