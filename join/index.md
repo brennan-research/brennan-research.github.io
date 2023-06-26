@@ -7,7 +7,9 @@ nav:
 
 # Join the group
 
-Thanks for your interest in the group! Before continuing, I encourage you to take a close look at our ongoing research and publications to make sure our interests align. 
+Thanks for your interest! As a [research group](https://brennan-research.github.io/team/),  we come from countries across the world and value diverse people, perspectives, backgrounds, lifestyle, and strive to create a positive environment for all people. It is of primary importance that we create a postive working environment and expect all members to treat other with respect.
+
+Before continuing, I encourage you to take a close look at our ongoing research and publications to make sure our interests align. 
 
 Still interested, see below!
 
