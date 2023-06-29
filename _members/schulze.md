@@ -1,7 +1,7 @@
 ---
 name: Jenny Nascimento Schulze
 image: images/Schulze.jpg
-role: postodc
+role: postdoc
 aliases:
 links:
   google-scholar: mtE7iscAAAAJ&hl
