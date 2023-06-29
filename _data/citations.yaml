@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3391/ai.2023.18.2.103208
+  title: "\uFEFFCurrent temperatures limit the potential impact of a commonly traded\
+    \ predatory gastropod"
+  authors:
+  - James W. E. Dickey
+  - Jonathan M. Jeschke
+  - Gregor T. Steffen
+  - "El\u017Ebieta Kazanavi\u010Di\u016Bt\u0117"
+  - Reid S. Brennan
+  - Elizabeta Briski
+  publisher: Aquatic Invasions
+  date: '2023-06-28'
+  link: https://doi.org/gsd3zv
+  orcid: 0000-0001-7678-564X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/jeb.14159
   title: Evidence of prezygotic isolation, but not assortative mating, between locally
     adapted populations of <i>Fundulus heteroclitus</i> across a salinity gradient
