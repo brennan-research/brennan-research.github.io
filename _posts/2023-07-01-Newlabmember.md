@@ -1,5 +1,5 @@
 ---
-title: Jenny Nascimento-Schulze joins the lab!
+title: Jenny Nascimento-Schulze joins the lab
 author: Reid Brennan
 tags: 
 ---
