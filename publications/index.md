@@ -38,11 +38,11 @@ Dickey, J.W., Brennan, R.S., Chung, S.S.W., Jeschke, J.M., Steffen, G.T. and Bri
 Brennan, R.S., deMayo, J.A., Dam, H.G., Finiguerra, M., Baumann, V. Buffalo, H., Pespeni, M.H., 2022. Experimental evolution reveals the synergistic genomic mechanisms of adaptation to ocean warming and acidification in a marine copepod. Proceedings of the National Academy of Sciences. 119 (38). doi: 10.1073/pnas.2201521119 [link](https://doi.org/10.1073/pnas.2201521119) [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-PNAS.pdf)
 - [Commentary in PNAS](https://doi.org/10.1073/pnas.2214263119)
 
-Brennan, R.S., DeMayo, J.A., Dam, H.G., Finiguerra, M.B., Baumann, H. and Pespeni, M.H., 2022. Loss of transcriptional plasticity but sustained adaptive capacity after adaptation to global change conditions in a marine copepod. Nature communications, 13(1), pp.1-13.
+Brennan, R.S., DeMayo, J.A., Dam, H.G., Finiguerra, M.B., Baumann, H. and Pespeni, M.H., 2022. Loss of transcriptional plasticity but sustained adaptive capacity after adaptation to global change conditions in a marine copepod. Nature communications, 13(1), pp.1-13. [link](https://www.nature.com/articles/s41467-022-28742-6) [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-NatComms.pdf)
 
 ### 2021
 
-Dam, H.G., DeMayo, J.A., Park, G., Norton, L., Xuejia, H., Finiguerra, M.B., Baumann H., Brennan, R. S., Pespeni, M.H. (2021). Rapid, but limited, zooplankton adaptation to simultaneous warming and acidification. Nature Climate Change. 11: 780–786. 
+Dam, H.G., DeMayo, J.A., Park, G., Norton, L., Xuejia, H., Finiguerra, M.B., Baumann H., Brennan, R. S., Pespeni, M.H. (2021). Rapid, but limited, zooplankton adaptation to simultaneous warming and acidification. Nature Climate Change. 11: 780–786. [link](https://www.nature.com/articles/s41558-021-01131-5) [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Dam_etal_2021-NCC.pdf)
 - [Press release](https://www.eurekalert.org/news-releases/926590)
 
 ### 2020
