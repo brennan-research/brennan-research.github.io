@@ -6,7 +6,7 @@ nav:
 ---
 
 
-{% include figure.html image="images/group_summer_2023.jpg" width="100%" %}
+{% include figure.html image="images/group_summer_2023.jpg" width="75%" %}
 
 
 
