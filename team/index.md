@@ -4,7 +4,11 @@ nav:
   order: 3
   tooltip: About our team
 ---
- 
+
+
+{% include figure.html image="images/group_summer_2023.HEIC" width="100%" %}
+
+
 
 {% include list.html data="members" component="portrait" %}
 
