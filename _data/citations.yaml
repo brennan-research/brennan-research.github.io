@@ -1,5 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.07.31.551281
+  title: Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod
+  authors:
+  - Alexandra Hahn
+  - Reid S. Brennan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-08-02'
+  link: https://doi.org/gsjwr4
+  orcid: 0000-0001-7678-564X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3391/ai.2023.18.2.103208
   title: "\uFEFFCurrent temperatures limit the potential impact of a commonly traded\
     \ predatory gastropod"
