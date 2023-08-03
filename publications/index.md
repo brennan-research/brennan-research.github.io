@@ -20,12 +20,11 @@ Please get in touch if you would like a PDF of any manuscripts.
 
 Hahn, A., Brennan, R.S., Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod. BioRxiv. https://doi.org/10.1101/2023.07.31.551281
 
-deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., Brennan, R.S., Pespini, M.H., Baumann, H., Dam, H., Limited copepod adaptation to combined warming and acidification reveals cost of producing adaptive phenotypes.
-
-
 ## Peer Reviewed Publications
 
 ### 2023
+
+deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., Brennan, R.S., Pespini, M.H., Baumann, H., Dam, H., Limited copepod adaptation to combined warming and acidification reveals cost of producing adaptive phenotypes. Proceedings of the Royal Society B. Accepted.
 
 Petak, C., Frati, L., Brennan, R.S., Pespeni, M.H., Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. The American Naturalist. In press.
 
