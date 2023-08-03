@@ -5,8 +5,6 @@ nav:
   tooltip: Publications from group members
 ---
 
-Please get in touch via email if you would like a PDF of any manuscripts. 
-
 {%
   include button.html
   type="google-scholar"
@@ -15,25 +13,27 @@ Please get in touch via email if you would like a PDF of any manuscripts.
   flip=true
 %}
 
+Please get in touch via email if you would like a PDF of any manuscripts. 
+
 Lab members shown in **bold**.
 
 ## Preprints and in review
 
-**Hahn, A**., **Brennan, R.S**., Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod. BioRxiv. https://doi.org/10.1101/2023.07.31.551281
+- **Hahn, A**., **Brennan, R.S**., Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod. BioRxiv. https://doi.org/10.1101/2023.07.31.551281
 
 ## Peer Reviewed Publications
 
 ### 2023
 
-deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., **Brennan, R.S**., Pespini, M.H., Baumann, H., Dam, H., Limited copepod adaptation to combined warming and acidification reveals cost of producing adaptive phenotypes. Proceedings of the Royal Society B. Accepted.
+- deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., **Brennan, R.S**., Pespini, M.H., Baumann, H., Dam, H., Limited copepod adaptation to combined warming and acidification reveals cost of producing adaptive phenotypes. Proceedings of the Royal Society B. Accepted.
 
-Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. The American Naturalist. In press.
+- Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. The American Naturalist. In press.
 
-**Brennan, R.S.** and Whitehead, A., Evidence of prezygotic isolation, but not assortative mating, between locally adapted populations of Fundulus heteroclitus across a salinity gradient. Journal of Evolutionary Biology. In press.
+- **Brennan, R.S.** and Whitehead, A., Evidence of prezygotic isolation, but not assortative mating, between locally adapted populations of Fundulus heteroclitus across a salinity gradient. Journal of Evolutionary Biology. In press.
 
-Dickey, J., Jeschke, J.M., Steffen, G, Kazanavičiūtė, E., Brennan, R.S., Briski, E., Current temperatures limit the potential impact of a commonly traded predatory gastropod. Aquatic Invasions. In press
+- Dickey, J., Jeschke, J.M., Steffen, G, Kazanavičiūtė, E., Brennan, R.S., Briski, E., Current temperatures limit the potential impact of a commonly traded predatory gastropod. Aquatic Invasions. In press
 
-Dickey, J.W., **Brennan, R.S.**, **Chung, S.S.W.**, Jeschke, J.M., Steffen, G.T. and Briski, E., 2023. More than we bargained for: Zebra mussels transported amongst European native freshwater snails. NeoBiota, 83, pp.1-10.
+- Dickey, J.W., **Brennan, R.S.**, **Chung, S.S.W.**, Jeschke, J.M., Steffen, G.T. and Briski, E., 2023. More than we bargained for: Zebra mussels transported amongst European native freshwater snails. NeoBiota, 83, pp.1-10.
 
 ### 2022
 
