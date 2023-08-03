@@ -18,6 +18,8 @@ Please get in touch if you would like a PDF of any manuscripts.
 
 ## Preprints and in review
 
+Hahn, A., Brennan, R.S., Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod. BioRxiv. https://doi.org/10.1101/2023.07.31.551281
+
 deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., Brennan, R.S., Pespini, M.H., Baumann, H., Dam, H., Limited copepod adaptation to combined warming and acidification reveals cost of producing adaptive phenotypes.
 
 
