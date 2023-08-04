@@ -19,7 +19,7 @@ Lab members shown in **bold**.
 
 ## Preprints and in review
 
-- **Hahn, A**., **Brennan, R.S**., Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod. BioRxiv. https://doi.org/10.1101/2023.07.31.551281
+- **Hahn, A**., **Brennan, R.S**., Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod. In reivew. [link to preprint](https://doi.org/10.1101/2023.07.31.551281)
 
 ## Peer Reviewed Publications
 
@@ -31,7 +31,7 @@ Lab members shown in **bold**.
 
 - **Brennan, R.S.** and Whitehead, A., Evidence of prezygotic isolation, but not assortative mating, between locally adapted populations of Fundulus heteroclitus across a salinity gradient. Journal of Evolutionary Biology. In press.
 
-- Dickey, J., Jeschke, J.M., Steffen, G, Kazanavičiūtė, E., Brennan, R.S., Briski, E., Current temperatures limit the potential impact of a commonly traded predatory gastropod. Aquatic Invasions. In press
+- Dickey, J., Jeschke, J.M., Steffen, G, Kazanavičiūtė, E., **Brennan, R.S.**, Briski, E., Current temperatures limit the potential impact of a commonly traded predatory gastropod. Aquatic Invasions. In press
 
 - Dickey, J.W., **Brennan, R.S.**, **Chung, S.S.W.**, Jeschke, J.M., Steffen, G.T. and Briski, E., 2023. More than we bargained for: Zebra mussels transported amongst European native freshwater snails. NeoBiota, 83, pp.1-10.
 
