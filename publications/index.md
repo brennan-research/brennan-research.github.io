@@ -29,18 +29,19 @@ Lab members shown in **bold**.
 
 - Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. The American Naturalist. In press.
 
-- **Brennan, R.S.** and Whitehead, A., Evidence of prezygotic isolation, but not assortative mating, between locally adapted populations of Fundulus heteroclitus across a salinity gradient. Journal of Evolutionary Biology. In press.
+- **Brennan, R.S.** and Whitehead, A., Evidence of prezygotic isolation, but not assortative mating, between locally adapted populations of Fundulus heteroclitus across a salinity gradient. [Journal of Evolutionary Biology](https://doi.org/10.1111/jeb.14159). 36: 687-397
+    - [Featured as cover image](https://doi.org/10.1111/jeb.13846)
 
-- Dickey, J., Jeschke, J.M., Steffen, G, Kazanavičiūtė, E., **Brennan, R.S.**, Briski, E., Current temperatures limit the potential impact of a commonly traded predatory gastropod. Aquatic Invasions. In press
+- Dickey, J., Jeschke, J.M., Steffen, G, Kazanavičiūtė, E., **Brennan, R.S.**, Briski, E., Current temperatures limit the potential impact of a commonly traded predatory gastropod. Aquatic Invasions. 18(2): 247-261
 
-- Dickey, J.W., **Brennan, R.S.**, **Chung, S.S.W.**, Jeschke, J.M., Steffen, G.T. and Briski, E., 2023. More than we bargained for: Zebra mussels transported amongst European native freshwater snails. NeoBiota, 83, pp.1-10.
+- Dickey, J.W., **Brennan, R.S.**, **Chung, S.S.W.**, Jeschke, J.M., Steffen, G.T. and Briski, E., 2023. More than we bargained for: Zebra mussels transported amongst European native freshwater snails. NeoBiota, 83: 1-10.
 
 ### 2022
 
-- Brennan, R.S., **deMayo, J.A.**, Dam, H.G., Finiguerra, M., Baumann, V. Buffalo, H., Pespeni, M.H., 2022. Experimental evolution reveals the synergistic genomic mechanisms of adaptation to ocean warming and acidification in a marine copepod. Proceedings of the National Academy of Sciences. 119 (38). doi: 10.1073/pnas.2201521119 [link](https://doi.org/10.1073/pnas.2201521119) [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-PNAS.pdf)
+- Brennan, R.S., **deMayo, J.A.**, Dam, H.G., Finiguerra, M., Baumann, V. Buffalo, H., Pespeni, M.H., 2022. Experimental evolution reveals the synergistic genomic mechanisms of adaptation to ocean warming and acidification in a marine copepod. [Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2201521119). 119 (38). [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-PNAS.pdf)
     - [Commentary in PNAS](https://doi.org/10.1073/pnas.2214263119)
 
-- **Brennan, R.S.**, DeMayo, J.A., Dam, H.G., Finiguerra, M.B., Baumann, H. and Pespeni, M.H., 2022. Loss of transcriptional plasticity but sustained adaptive capacity after adaptation to global change conditions in a marine copepod. Nature communications, 13(1), pp.1-13. [link](https://www.nature.com/articles/s41467-022-28742-6) [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-NatComms.pdf)
+- **Brennan, R.S.**, DeMayo, J.A., Dam, H.G., Finiguerra, M.B., Baumann, H. and Pespeni, M.H., 2022. Loss of transcriptional plasticity but sustained adaptive capacity after adaptation to global change conditions in a marine copepod. [Nature Communications](https://www.nature.com/articles/s41467-022-28742-6), 13(1): 1-13. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-NatComms.pdf)
 
 ### 2021
 
