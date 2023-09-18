@@ -25,9 +25,9 @@ Lab members shown in **bold**.
 
 ### 2023
 
-- deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., **Brennan, R.S**., Pespini, M.H., Baumann, H., Dam, H., Limited copepod adaptation to combined warming and acidification reveals cost of producing adaptive phenotypes. Proceedings of the Royal Society B. Accepted.
+- deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., **Brennan, R.S**., Pespini, M.H., Baumann, H., Dam, H., Simultaneous warming and acidification limit population fitness and reveal phenotype costs for a marine copepod. [Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2023.1033). 290(2006), 20231033.
 
-- Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. [The American Naturalist](https://www.journals.uchicago.edu/doi/10.1086/726013). In press.
+- Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. [The American Naturalist](https://www.journals.uchicago.edu/doi/10.1086/726013).
 
 - **Brennan, R.S.** and Whitehead, A., Evidence of prezygotic isolation, but not assortative mating, between locally adapted populations of Fundulus heteroclitus across a salinity gradient. [Journal of Evolutionary Biology](https://doi.org/10.1111/jeb.14159). 36: 687-397. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_Whitehead_2023.pdf)
     - [Featured as cover image](https://doi.org/10.1111/jeb.13846)
