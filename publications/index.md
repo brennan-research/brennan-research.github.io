@@ -25,14 +25,14 @@ Lab members shown in **bold**.
 
 ### 2023
 
-- deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., **Brennan, R.S**., Pespini, M.H., Baumann, H., Dam, H., Simultaneous warming and acidification limit population fitness and reveal phenotype costs for a marine copepod. [Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2023.1033). 290(2006), 20231033.
+- deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., **Brennan, R.S**., Pespini, M.H., Baumann, H., Dam, H., 2023. Simultaneous warming and acidification limit population fitness and reveal phenotype costs for a marine copepod. [Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2023.1033). 290(2006), 20231033.
 
-- Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. [The American Naturalist](https://www.journals.uchicago.edu/doi/10.1086/726013).
+- Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., 2023. Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. [The American Naturalist](https://www.journals.uchicago.edu/doi/10.1086/726013).
 
-- **Brennan, R.S.** and Whitehead, A., Evidence of prezygotic isolation, but not assortative mating, between locally adapted populations of Fundulus heteroclitus across a salinity gradient. [Journal of Evolutionary Biology](https://doi.org/10.1111/jeb.14159). 36: 687-397. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_Whitehead_2023.pdf)
+- **Brennan, R.S.** and Whitehead, A., 2023. Evidence of prezygotic isolation, but not assortative mating, between locally adapted populations of Fundulus heteroclitus across a salinity gradient. [Journal of Evolutionary Biology](https://doi.org/10.1111/jeb.14159). 36: 687-397. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_Whitehead_2023.pdf)
     - [Featured as cover image](https://doi.org/10.1111/jeb.13846)
 
-- Dickey, J., Jeschke, J.M., Steffen, G, Kazanavičiūtė, E., **Brennan, R.S.**, Briski, E., Current temperatures limit the potential impact of a commonly traded predatory gastropod. [Aquatic Invasions](https://doi.org/10.3391/ai.2023.18.2.103208). 18(2): 247-261
+- Dickey, J., Jeschke, J.M., Steffen, G, Kazanavičiūtė, E., **Brennan, R.S.**, Briski, E., 2023. Current temperatures limit the potential impact of a commonly traded predatory gastropod. [Aquatic Invasions](https://doi.org/10.3391/ai.2023.18.2.103208). 18(2): 247-261
 
 - Dickey, J.W., **Brennan, R.S.**, **Chung, S.S.W.**, Jeschke, J.M., Steffen, G.T. and Briski, E., 2023. More than we bargained for: Zebra mussels transported amongst European native freshwater snails. [NeoBiota](https://doi.org/10.3897/neobiota.83.97647), 83: 1-10. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Dickey_etal_2023_NeoBiota.pdf)
 
