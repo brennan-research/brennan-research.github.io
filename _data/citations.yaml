@@ -47,7 +47,7 @@
   file: orcid.yaml
 - id: doi:10.1111/jeb.14159
   title: Evidence of prezygotic isolation, but not assortative mating, between locally
-    adapted populations of <i>Fundulus heteroclitus</i> across a salinity gradient
+    adapted populations of<i>Fundulus heteroclitus</i>across a salinity gradient
   authors:
   - Reid S. Brennan
   - Andrew Whitehead
@@ -245,7 +245,7 @@
   file: orcid.yaml
 - id: doi:10.1111/mec.12347
   title: 'Model selection as a tool for phylogeographic inference: an example from
-    the willow<i>Salix melanopsis</i>'
+    the willow <i><scp>S</scp>alix melanopsis</i>'
   authors:
   - Bryan C. Carstens
   - Reid S. Brennan
