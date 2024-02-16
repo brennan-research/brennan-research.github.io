@@ -3,6 +3,8 @@
 
 # Ecological and evolutionary genomics at GEOMAR
 
+### We are currently looking for an intern for summer 2024. Likely projects include copepod phsyioglogical assays to understand performance of populations locally adapted to different salinity regimes. Please get in [contact if](https://brennan-research.github.io/contact/) this sounds interesting to you!
+
 The ecological and evolutionary genomics group at [GEOMAR](https://www.geomar.de/en/) seeks to understand how species rapidly evolve across environmental and temporal gradients and in response to changing environments due to human driven global change. 
 
 We use diverse approaches including physiological, transcriptomic, and population genomics to investigate the mechanistic and evolutionary underpinnings of ecologically relevant traits.
