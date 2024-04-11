@@ -21,6 +21,11 @@ Lab members shown in **bold**.
 
 - **Hahn, A**., **Brennan, R.S**., Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod. In reivew. [link to preprint](https://doi.org/10.1101/2023.07.31.551281)
 
+- Bentley, B.P., Cheng, B.S., **Brennan, R.S.**, Swenson, J.D., Adkins, J.L., Villeneuve, A.R., Komoroske, L. Adaptation at a snail’s pace: No evidence of rapid adaptation to novel thermal environments in invasive Atlantic oyster drills (Urosalpinx cinerea). In review.
+
+- **Brennan, R.S.**, deMayo, J.A., Finiguerra, M., Baumann, H., Dam, H.G. and Pespeni, M.H., Epigenetic and evolutionary mechanisms uniquely contribute to rescue from global change. In review. bioRxiv![link to preprint](https://doi.org/10.1101/2024.03.20.585843). In review.
+
+
 ## Peer Reviewed Publications
 
 ### 2023
