@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.03.20.585843
+  title: Epigenetic and evolutionary mechanisms uniquely contribute to rescue from
+    global change
+  authors:
+  - Reid S. Brennan
+  - James A. deMayo
+  - Michael Finiguerra
+  - Hannes Baumann
+  - Hans G. Dam
+  - Melissa H. Pespeni
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-22'
+  link: https://doi.org/gtnz95
+  orcid: 0000-0001-7678-564X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1098/rspb.2023.1033
   title: Simultaneous warming and acidification limit population fitness and reveal
     phenotype costs for a marine copepod
