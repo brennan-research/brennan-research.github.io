@@ -19,8 +19,6 @@ Lab members shown in **bold**.
 
 ## Preprints and in review
 
-- **Hahn, A**., **Brennan, R.S**., Phenotypic Plasticity Drives Seasonal Thermal Tolerance in a Baltic Copepod. In reivew. [link to preprint](https://doi.org/10.1101/2023.07.31.551281)
-
 - Bentley, B.P., Cheng, B.S., **Brennan, R.S.**, Swenson, J.D., Adkins, J.L., Villeneuve, A.R., Komoroske, L. Adaptation at a snail’s pace: No evidence of rapid adaptation to novel thermal environments in invasive Atlantic oyster drills (Urosalpinx cinerea). In review.
 
 - **Brennan, R.S.**, deMayo, J.A., Finiguerra, M., Baumann, H., Dam, H.G. and Pespeni, M.H., Epigenetic and evolutionary mechanisms uniquely contribute to rescue from global change. In review. [link to preprint](https://doi.org/10.1101/2024.03.20.585843).
@@ -28,9 +26,13 @@ Lab members shown in **bold**.
 
 ## Peer Reviewed Publications
 
+### 2024
+
+**Hahn, A.** and **Brennan, R.S.**, 2024. Phenotypic plasticity drives seasonal thermal tolerance in a Baltic copepod. [Journal of Experimental Marine Biology and Ecology](https://doi.org/10.1016/j.jembe.2024.152014), 576, p.152014. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Hahn_Brennan_2024.pdf)
+
 ### 2023
 
-- deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., **Brennan, R.S**., Pespini, M.H., Baumann, H., Dam, H., 2023. Simultaneous warming and acidification limit population fitness and reveal phenotype costs for a marine copepod. [Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2023.1033). 290(2006), 20231033.
+- deMayo, J.A., Finiguerra, M., Norton, L.; Park, G., **Brennan, R.S**., Pespini, M.H., Baumann, H., Dam, H., 2023. Simultaneous warming and acidification limit population fitness and reveal phenotype costs for a marine copepod. [Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2023.1033). 290(2006), 20231033. 
 
 - Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., 2023. Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. [The American Naturalist](https://www.journals.uchicago.edu/doi/10.1086/726013).
 
