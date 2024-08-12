@@ -30,9 +30,9 @@ Lab members shown in **bold**.
 
 ### 2024
 
-**Hahn, A.** and **Brennan, R.S.**, 2024. Phenotypic plasticity drives seasonal thermal tolerance in a Baltic copepod. [Journal of Experimental Marine Biology and Ecology](https://doi.org/10.1016/j.jembe.2024.152014), 576, p.152014. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Hahn_Brennan_2024.pdf)
+- **Hahn, A.** and **Brennan, R.S.**, 2024. Phenotypic plasticity drives seasonal thermal tolerance in a Baltic copepod. [Journal of Experimental Marine Biology and Ecology](https://doi.org/10.1016/j.jembe.2024.152014), 576, p.152014. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Hahn_Brennan_2024.pdf)
 
-Kazanavičiūtė, E., Dickey, J.W., Soto, I., Haubrock, P.J., Kouba, A., **Brennan, R.S.**, Steffen, G. and Briski, E., 2024. Seasonal changes in biodiversity of native and non-native amphipod taxa under diverse environmental contexts. Marine Biology, 171(8), p.156. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Kazanaviciute_2024.pdf)
+- Kazanavičiūtė, E., Dickey, J.W., Soto, I., Haubrock, P.J., Kouba, A., **Brennan, R.S.**, Steffen, G. and Briski, E., 2024. Seasonal changes in biodiversity of native and non-native amphipod taxa under diverse environmental contexts. Marine Biology, 171(8), p.156. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Kazanaviciute_2024.pdf)
 
 ### 2023
 
