@@ -23,7 +23,7 @@ Lab members shown in **bold**.
 
 - Han, K.Y., **Brennan, R.S.**, Monk, C.T., Jentoft, S., Helmerson, C., Dierking, J., Huessy, K., Kokubun, É.E., Fuss, J., Krause-Kyora, B. and Thomsen, T.B., 2024. Genomic Evidence of Fisheries Induced Evolution in Eastern Baltic cod. bioRxiv, pp.2024-06. In review. [link to preprint](https://doi.org/10.1101/2024.06.27.601002)
 
-- - Bentley, B.P., Cheng, B.S., **Brennan, R.S.**, Swenson, J.D., Adkins, J.L., Villeneuve, A.R., Komoroske, L. Adaptation at a snail’s pace: No evidence of rapid adaptation to novel thermal environments in invasive Atlantic oyster drills (Urosalpinx cinerea). In review. [link to preprint](https://essopenarchive.org/doi/full/10.22541/au.172320118.84212337)
+- Bentley, B.P., Cheng, B.S., **Brennan, R.S.**, Swenson, J.D., Adkins, J.L., Villeneuve, A.R., Komoroske, L. Adaptation at a snail’s pace: No evidence of rapid adaptation to novel thermal environments in invasive Atlantic oyster drills (Urosalpinx cinerea). In review. [link to preprint](https://essopenarchive.org/doi/full/10.22541/au.172320118.84212337)
 
 
 ## Peer Reviewed Publications
