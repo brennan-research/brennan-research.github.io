@@ -7,29 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our group at GEOMAR is part of [Research Division 3: Marine Ecology](https://www.geomar.de/en/research/fb3/overview).
 
-Mailing address Until fall 2023, when we move to a new building on the east shore: 
+At NOAA, I am part of [the Marine Mammal and Turtle Division at Southeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/marine-mammal-and-turtle-division-southeast-fisheries-science-center)
 
-  GEOMAR Helmholtz Centre for Ocean Research Kiel. 
-  Düsternbrooker Weg 20, 24105 Kiel. 
-  Germany. 
+The group at GEOMAR is part of [Research Division 3: Marine Ecology](https://www.geomar.de/en/research/fb3/overview).
 
 {%
   include button.html
   type="email"
-  text="rbrennan@geomar.de"
-  link="rbrennan@geomar.de"
+  text="reid.brennan@gmail.com"
+  link="reid.brennan@gmail.com"
 %}
-{%
-  include button.html
-  type="phone"
-  text="+49 431 600-4557"
-  link="+494316004557"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/7yESWeacaHSWW3Sr8"
-%}
+
