@@ -23,4 +23,7 @@ nav:
 
 ## Lab Alumni
 
+Sheena Chung: MSc Student, 2022-2024
+Gianina Consing: MSc Student, 2021-2024
+Sophia Bach: 2023 intern
 Myria Schröder: Summer 2022 intern. Currently in the Masters Program at Leipzig University.
