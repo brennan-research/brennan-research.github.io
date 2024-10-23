@@ -23,12 +23,14 @@ Lab members shown in **bold**.
 
 - Han, K.Y., **Brennan, R.S.**, Monk, C.T., Jentoft, S., Helmerson, C., Dierking, J., Huessy, K., Kokubun, É.E., Fuss, J., Krause-Kyora, B, Heredia, B.D., and Reusch, T.B., 2024. Genomic evidence of fisheries induced evolution in Eastern Baltic cod. bioRxiv, pp.2024-06. In review. [link to preprint](https://doi.org/10.1101/2024.06.27.601002)
 
-- Bentley, B.P., Cheng, B.S., **Brennan, R.S.**, Swenson, J.D., Adkins, J.L., Villeneuve, A.R., Komoroske, L. Adaptation at a snail’s pace: No evidence of rapid adaptation to novel thermal environments in invasive Atlantic oyster drills (Urosalpinx cinerea). In review. [link to preprint](https://essopenarchive.org/doi/full/10.22541/au.172320118.84212337)
+- **Nascimento-Schulze, J.C.**, Vajedsamiei, J., Bean, T.P., Frakholz, L., Brennan, R.S., Melzner, F., Ellis, R.P., Thermal selection shifts genetic diversity and performance in Blue mussel juveniles. In review. 
 
 
 ## Peer Reviewed Publications
 
 ### 2024
+
+- Bentley, B.P., Cheng, B.S., **Brennan, R.S.**, Swenson, J.D., Adkins, J.L., Villeneuve, A.R., Komoroske, L. Adaptation at a snail’s pace: No evidence of rapid adaptation to novel thermal environments in invasive Atlantic oyster drills (Urosalpinx cinerea). Molecular Ecology. [link to preprint](https://essopenarchive.org/doi/full/10.22541/au.172320118.84212337)
 
 - **Hahn, A.** and **Brennan, R.S.**, 2024. Phenotypic plasticity drives seasonal thermal tolerance in a Baltic copepod. [Journal of Experimental Marine Biology and Ecology](https://doi.org/10.1016/j.jembe.2024.152014), 576, p.152014. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Hahn_Brennan_2024.pdf)
 
