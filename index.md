@@ -3,14 +3,13 @@
 
 # Ecological and evolutionary genomics
 
-#### As of August 2024, I will be starting a position at NOAA at the Southeast Fisheries Science Center. Some members of the team will continue at GEOMAR during this transition. 
+#### As of August 2024, I have started a position at NOAA at the Southeast Fisheries Science Center. Some members of the team will continue at GEOMAR during this transition. 
 
+The ecological and evolutionary genomics group at [GEOMAR](https://www.geomar.de/en/) seeks to understand how species are resilient to rapid envionmental change. Predominantly, we focus on rapid adaptation across environmental and temporal gradients and in response to changing environments due to human driven global change. Ultimately, we seek to apply our knowledge to help manage species of conservation conern. 
 
-The ecological and evolutionary genomics group at [GEOMAR](https://www.geomar.de/en/) seeks to understand how species rapidly evolve across environmental and temporal gradients and in response to changing environments due to human driven global change. 
+We use diverse approaches including physiology, transcriptomics, and population genomics to investigate the mechanistic and evolutionary underpinnings of ecologically relevant traits.
 
-We use diverse approaches including physiological, transcriptomic, and population genomics to investigate the mechanistic and evolutionary underpinnings of ecologically relevant traits.
-
-We are particularly interested in leveraging the interesting aspects of natural systems, such as salinity and temperature gradients, along with techniques such as experimental evolution in the lab to understand adaptive processes.
+We are particularly interested in leveraging the interesting aspects of natural systems, such as salinity and temperature gradients, along with techniques such as experimental evolution in the lab to understand evolutionary processes. 
 
 For more information don't hesistate to [get in touch!](https://brennan-research.github.io/contact/). 
 
