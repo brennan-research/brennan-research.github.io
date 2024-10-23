@@ -23,7 +23,7 @@ Lab members shown in **bold**.
 
 - Han, K.Y., **Brennan, R.S.**, Monk, C.T., Jentoft, S., Helmerson, C., Dierking, J., Huessy, K., Kokubun, É.E., Fuss, J., Krause-Kyora, B, Heredia, B.D., and Reusch, T.B., 2024. Genomic evidence of fisheries induced evolution in Eastern Baltic cod. bioRxiv, pp.2024-06. In review. [link to preprint](https://doi.org/10.1101/2024.06.27.601002)
 
-- **Nascimento-Schulze, J.C.**, Vajedsamiei, J., Bean, T.P., Frakholz, L., Brennan, R.S., Melzner, F., Ellis, R.P., Thermal selection shifts genetic diversity and performance in Blue mussel juveniles. In review. 
+- **Nascimento-Schulze, J.C.**, Vajedsamiei, J., Bean, T.P., Frakholz, L., **Brennan, R.S.**, Melzner, F., Ellis, R.P., Thermal selection shifts genetic diversity and performance in Blue mussel juveniles. In review. 
 
 
 ## Peer Reviewed Publications
