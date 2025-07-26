@@ -19,14 +19,24 @@ Lab members shown in **bold**.
 
 ## Preprints and in review
 
-- **Brennan, R.S.**, deMayo, J.A., Finiguerra, M., Baumann, H., Dam, H.G. and Pespeni, M.H., Epigenetic and evolutionary mechanisms uniquely contribute to rescue from global change. In review. [link to preprint](https://doi.org/10.1101/2024.03.20.585843).
+- **Hahn, A., Nascimento Schulze, J.C., Avgerinou, G.**, Bayer, T. and **Brennan, R.S.**, 2025. Local Adaptation and Transcriptomic Plasticity of the Copepod Acartia tonsa Under Low Salinity Stress. [bioRxiv](https://doi.org/10.1101/2025.06.12.659303)
+- 
+- **Brennan, R.S.**, Wilcox Talbot, L.A., Martinez, A., Garrison, L.P., Engelhaupt, D., Vollmer, N.L. and Rosel, P.E., Mitochondrial structure despite nuclear panmixia: sex-specific dispersal dictates population structure in sperm whales. [bioRxiv](https://doi.org/10.1101/2025.04.29.651281)
 
-- Han, K.Y., **Brennan, R.S.**, Monk, C.T., Jentoft, S., Helmerson, C., Dierking, J., Huessy, K., Kokubun, É.E., Fuss, J., Krause-Kyora, B, Heredia, B.D., and Reusch, T.B., 2024. Genomic evidence of fisheries induced evolution in Eastern Baltic cod. bioRxiv, pp.2024-06. In review. [link to preprint](https://doi.org/10.1101/2024.06.27.601002)
+- Roeder, N., Kolbenschlag, S., Pietz, S., **Brennan, R.S.**, Bundschuh, M., Pfenninger, M. and Schwenk, K., 2025. Pollution-Driven Selection in Riparian Ecosystems: Genome-Wide Responses to Bacillus thuringiensis israelensis and Copper in a Non-biting Midge. [bioRxiv](https://doi.org/10.1101/2025.06.30.662114)
 
-- **Nascimento-Schulze, J.C.**, Vajedsamiei, J., Bean, T.P., Frakholz, L., **Brennan, R.S.**, Melzner, F., Ellis, R.P., Thermal selection shifts genetic diversity and performance in Blue mussel juveniles. In review. 
+- Toczydlowski, R.H., **Brennan, R.S.**, Crandall, E.D., Kelley, J.L., Pringle, J.M., Riginos, C., Wares, J.P. and Bradburd, G.S., 2025. Drivers of genetic diversity across the marine tree of life. [bioRxiv](https://doi.org/10.1101/2025.06.03.657718)
 
 
 ## Peer Reviewed Publications
+
+### 2025
+
+- **Brennan, R.S.**, deMayo, J.A., Finiguerra, M., Baumann, H., Dam, H.G. and Pespeni, M.H., 2025. Complementary genetic and epigenetic changes facilitate rapid adaptation to multiple global change stressors. [Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2422782122), 122(29), p.e2422782122.
+
+- Han, K.Y., **Brennan, R.S.**, Monk, C.T., Jentoft, S., Helmerson, C., Dierking, J., Huessy, K., Kokubun, É.E., Fuss, J., Krause-Kyora, B, Heredia, B.D., and Reusch, T.B., 2025. Genomic evidence of fisheries induced evolution in Eastern Baltic cod. [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adr9889), 11(26)
+
+- **Nascimento-Schulze, J.C.**, Vajedsamiei, J., Bean, T.P., Frakholz, L., **Brennan, R.S.**, Melzner, F., Ellis, R.P., Thermal selection shifts genetic diversity and performance in Blue mussel juveniles. [Evolutionary Applications](https://doi.org/10.1111/eva.70118), 18(6), p.e70118
 
 ### 2024
 
