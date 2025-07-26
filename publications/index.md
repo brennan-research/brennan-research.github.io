@@ -20,7 +20,7 @@ Lab members shown in **bold**.
 ## Preprints and in review
 
 - **Hahn, A., Nascimento Schulze, J.C., Avgerinou, G.**, Bayer, T. and **Brennan, R.S.**, 2025. Local Adaptation and Transcriptomic Plasticity of the Copepod Acartia tonsa Under Low Salinity Stress. [bioRxiv](https://doi.org/10.1101/2025.06.12.659303)
-- 
+
 - **Brennan, R.S.**, Wilcox Talbot, L.A., Martinez, A., Garrison, L.P., Engelhaupt, D., Vollmer, N.L. and Rosel, P.E., Mitochondrial structure despite nuclear panmixia: sex-specific dispersal dictates population structure in sperm whales. [bioRxiv](https://doi.org/10.1101/2025.04.29.651281)
 
 - Roeder, N., Kolbenschlag, S., Pietz, S., **Brennan, R.S.**, Bundschuh, M., Pfenninger, M. and Schwenk, K., 2025. Pollution-Driven Selection in Riparian Ecosystems: Genome-Wide Responses to Bacillus thuringiensis israelensis and Copper in a Non-biting Midge. [bioRxiv](https://doi.org/10.1101/2025.06.30.662114)
