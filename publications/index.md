@@ -34,6 +34,8 @@ Lab members shown in **bold**.
 
 - **Brennan, R.S.**, deMayo, J.A., Finiguerra, M., Baumann, H., Dam, H.G. and Pespeni, M.H., 2025. Complementary genetic and epigenetic changes facilitate rapid adaptation to multiple global change stressors. [Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2422782122), 122(29), p.e2422782122.
 
+- deMayo, J.A., **Brennan, R.S.**, Pespeni, M., Jaspers, C., Varpe, Ø., Lee, C.E. and Dam, H.G., 2025. Recognizing adaptation costs in the Anthropocene. [Trends in Ecology & Evolution](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(25)00281-2).
+
 - Han, K.Y., **Brennan, R.S.**, Monk, C.T., Jentoft, S., Helmerson, C., Dierking, J., Huessy, K., Kokubun, É.E., Fuss, J., Krause-Kyora, B, Heredia, B.D., and Reusch, T.B., 2025. Genomic evidence of fisheries induced evolution in Eastern Baltic cod. [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adr9889), 11(26)
 
 - **Nascimento-Schulze, J.C.**, Vajedsamiei, J., Bean, T.P., Frakholz, L., **Brennan, R.S.**, Melzner, F., Ellis, R.P., Thermal selection shifts genetic diversity and performance in Blue mussel juveniles. [Evolutionary Applications](https://doi.org/10.1111/eva.70118), 18(6), p.e70118
