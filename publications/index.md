@@ -21,8 +21,6 @@ Lab members shown in **bold**.
 
 - Toczydlowski, R.H., **Brennan, R.S.**, Crandall, E.D., Kelley, J.L., Pringle, J.M., Riginos, C., Wares, J.P. and Bradburd, G.S., 2025. Drivers of genetic diversity across the marine tree of life. [bioRxiv](https://doi.org/10.1101/2025.06.03.657718)
 
-- Brennan, R.S., Pespeni, M.H., A role for epigenetics in rapid adaptation. In review. 
-
 
 ## Peer Reviewed Publications
 
