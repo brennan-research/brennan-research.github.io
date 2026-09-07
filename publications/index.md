@@ -21,10 +21,15 @@ Lab members shown in **bold**.
 
 - Toczydlowski, R.H., **Brennan, R.S.**, Crandall, E.D., Kelley, J.L., Pringle, J.M., Riginos, C., Wares, J.P. and Bradburd, G.S., 2025. Drivers of genetic diversity across the marine tree of life. [bioRxiv](https://doi.org/10.1101/2025.06.03.657718)
 
+**Brennan, R.S.**,Costa, A.P.B., Vollmer, N.L., Wilcox Talbot, L.A., Rosel, P.E., Large X-effect and niche divergence maintain species boundaries in a bottlenose dolphin hybrid zone. In review.
+
+**Brennan, R.S.**, Schultz, D.T., deMayo, J.A., Sasaki, M.C., Stover, S., Dam, H.G., Pespeni, M.H., A chromosome-level genome for the cosmopolitan marine copepod Acartia tonsa. In review.
 
 ## Peer Reviewed Publications
 
 ### 2026
+
+- **Brennan, R.S.**, Pespeni, M.H., 2026. A role for epigenetics in rapid adaptation. [Trends in Genetics](https://doi.org/10.1016/j.tig.2026.05.015). [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_Pespeni_2026.pdf)
 
 - **Hahn, A., Nascimento‐Schulze, J.C., Avgerinou, G.**, Bayer, T. and **Brennan, R.S.**, 2026. Local Adaptation and Osmoregulatory Mechanisms of the Copepod Acartia tonsa Under Low Salinity Stress. [Molecular Ecology](https://doi.org/10.1111/mec.70208), 35(1), p.e70208. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Hahn_2026_MolEcol.pdf)
 
