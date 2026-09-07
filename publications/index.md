@@ -21,9 +21,9 @@ Lab members shown in **bold**.
 
 - Toczydlowski, R.H., **Brennan, R.S.**, Crandall, E.D., Kelley, J.L., Pringle, J.M., Riginos, C., Wares, J.P. and Bradburd, G.S., 2025. Drivers of genetic diversity across the marine tree of life. [bioRxiv](https://doi.org/10.1101/2025.06.03.657718)
 
-**Brennan, R.S.**,Costa, A.P.B., Vollmer, N.L., Wilcox Talbot, L.A., Rosel, P.E., Large X-effect and niche divergence maintain species boundaries in a bottlenose dolphin hybrid zone. In review.
+- **Brennan, R.S.**,Costa, A.P.B., Vollmer, N.L., Wilcox Talbot, L.A., Rosel, P.E., Large X-effect and niche divergence maintain species boundaries in a bottlenose dolphin hybrid zone. In review.
 
-**Brennan, R.S.**, Schultz, D.T., deMayo, J.A., Sasaki, M.C., Stover, S., Dam, H.G., Pespeni, M.H., A chromosome-level genome for the cosmopolitan marine copepod Acartia tonsa. In review.
+- **Brennan, R.S.**, Schultz, D.T., deMayo, J.A., Sasaki, M.C., Stover, S., Dam, H.G., Pespeni, M.H., A chromosome-level genome for the cosmopolitan marine copepod Acartia tonsa. In review.
 
 ## Peer Reviewed Publications
 
