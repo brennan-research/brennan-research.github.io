@@ -1,13 +1,11 @@
 ---
 ---
 
-I am a research scientist at NOAA's Southeast Fisheries Science Center. Previously, I led the Ecological and Evolutionary Genomics group at GEOMAR in Kiel, Germany
+I am a research scientist at NOAA's Southeast Fisheries Science Center, where I lead the application of genomics to the management of marine mammals and fisheries species. Previously, I led the Ecological and Evolutionary Genomics group at GEOMAR Helmholtz Centre for Ocean Research in Kiel, Germany.
 
-I seek to understand how species are resilient to rapid environmental change. Predominantly, we focus on rapid adaptation across environmental and temporal gradients and in response to changing environments due to human driven global change. Ultimately, we seek to apply our knowledge to help manage species of conservation concern. 
+The oceans are changing at unprecedented rates, and I seek to understand the  mechanisms that determine whether marine species can keep pace. I combine physiological measurements of tolerance and fitness with genomic and ecological approaches, in both the field and the lab, to understand the drivers of phenotypic and genetic variation and the potential for resilience to global change.
 
-I use diverse approaches including physiology, transcriptomics, epigenomics, and population genomics to investigate the mechanistic and evolutionary underpinnings of ecologically relevant traits.
-
-I are particularly interested in leveraging the interesting aspects of natural systems, such as salinity and temperature gradients, along with techniques such as experimental evolution in the lab to understand evolutionary processes. 
+Much of my current work contributes directly to management priorities, from assessing the health and resilience of endangered species to delineating stocks and developing epigenetic aging tools. This applied work builds on mechanistic insights from multi-generational experiments and long-term field studies in experimentally tractable systems such as copepods.
 
 For more information don't hesitate to [get in touch!](https://brennan-research.github.io/contact/). 
 
@@ -20,7 +18,7 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
 {%
   include button.html
   link="research"
-  text="learn about our research"
+  text="learn about my research"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
@@ -31,7 +29,7 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
   include feature.html
   image="images/covariance_heatmap.jpg"
   link="research"
-  title="Want to know more about our work?"
+  title="Want to know more about my work?"
   text=text
 %}
 
@@ -40,7 +38,7 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
 {%
   include button.html
   link="publications"
-  text="read our publications"
+  text="read my publications"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
@@ -51,7 +49,7 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
   include feature.html
   image="images/cope1.jpg"
   link="publications"
-  title="Looking for our papers?"
+  title="Looking for my papers?"
   flip=true
   style="bare"
   text=text
@@ -76,15 +74,15 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
   link="team"
   title="Who are we?"
   text=text
-%}
-{% endcomment %} # delete to put the team parts back.
+%} 
+{% endcomment %} 
 
 {% capture text %}
 
 {%
   include button.html
   link="join"
-  text="join the lab"
+  text="work with me"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
@@ -95,8 +93,8 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
   include feature.html
   image="images/cope2.JPG"
   link="join"
-  title="Do our interests match?"
-  flip=true
+  title="Do our interests align?"
+  flip=false
   style="bare"
   text=text
 %}
