@@ -1,8 +1,8 @@
 ---
 title: News
-nav:
-  order: 4
-  tooltip: News from the lab group
+# nav:
+#  order: 4
+#  tooltip: News from the lab group
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
