@@ -58,6 +58,7 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
   text=text
 %}
 
+{% comment %} # delete this to put the team block back
 {% capture text %}
 
 {%
@@ -77,6 +78,7 @@ Note that any drawings found on this site are courtesy of the very talented [Ale
   title="Who are we?"
   text=text
 %}
+{% endcomment %} # delete to put the team parts back.
 
 {% capture text %}
 
