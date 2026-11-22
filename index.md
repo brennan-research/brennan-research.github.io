@@ -4,13 +4,13 @@
 
 #### As of August 2024, I have started a position at NOAA at the Southeast Fisheries Science Center. Some members of the team will continue at GEOMAR during this transition. 
 
-We seek to understand how species are resilient to rapid environmental change. Predominantly, we focus on rapid adaptation across environmental and temporal gradients and in response to changing environments due to human driven global change. Ultimately, we seek to apply our knowledge to help manage species of conservation conern. 
+We seek to understand how species are resilient to rapid environmental change. Predominantly, we focus on rapid adaptation across environmental and temporal gradients and in response to changing environments due to human driven global change. Ultimately, we seek to apply our knowledge to help manage species of conservation concern. 
 
 We use diverse approaches including physiology, transcriptomics, and population genomics to investigate the mechanistic and evolutionary underpinnings of ecologically relevant traits.
 
 We are particularly interested in leveraging the interesting aspects of natural systems, such as salinity and temperature gradients, along with techniques such as experimental evolution in the lab to understand evolutionary processes. 
 
-For more information don't hesistate to [get in touch!](https://brennan-research.github.io/contact/). 
+For more information don't hesitate to [get in touch!](https://brennan-research.github.io/contact/). 
 
 Note that any drawings found on this site are courtesy of the very talented [Alexandra Hahn](https://brennan-research.github.io/members/hahn.html)! 
 
