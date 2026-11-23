@@ -2,30 +2,25 @@
 title: Teaching
 nav:
   order: 4
-  tooltip: Courses taught at GEOMAR
+  tooltip: Teaching experience
 ---
 
-## Fundamentals of population genomics:
-
-Msc course designed to give background and practical experience in population genomics. The goal is that students are able to analyze and interpret population genomic data by the end of the course. This will require gaining practical skills in bioinformatic methods as well as knowledge of the biology to be able to interpret results and analyses.
-
-- bioc 202
-- Offered winter semesters, in a two week block course
-- [Link to course website](https://rsbrennan.github.io/EvolutionaryGenomics_2023/)
-
-## Fish barcoding practical
-
-Msc level practical course in DNA extraction, PCR, barcoding, and species identification. 
-
-- bioc 102
-- Offered fall semester, in a one week block course
-
-## Current topics in fish ecology and evolution
-
-Msc level seminar course in fish ecology and evolution. A discussion of current literature chosen and led by students.
-
-- bioc 334
-- Offered fall semesters, weekly
-
-
+# Teaching
  
+## Courses taught (instructor of record)
+ 
+### Marine Population Genomics
+*M.Sc. Biological Oceanography, GEOMAR Helmholtz Centre for Ocean Research, 2022–2024*
+ 
+A two-week intensive course giving students background and hands-on experience in population genomics. By the end of the course, students were able to analyze and interpret population genomic data, combining practical skills in bioinformatics with the biological knowledge needed to interpret results.
+ 
+- [Course website](https://rsbrennan.github.io/EvolutionaryGenomics_2024/)
+### Current Topics in Fish Ecology and Evolution
+*M.Sc. Biological Oceanography, GEOMAR Helmholtz Centre for Ocean Research, 2021–2024*
+ 
+A weekly seminar course on current literature in fish ecology and evolution, with papers chosen and discussions led by students.
+ 
+### Fish Barcoding and Sustainability
+*M.Sc. Biological Oceanography, GEOMAR Helmholtz Centre for Ocean Research, 2021–2024*
+ 
+A one-week practical course in DNA extraction, PCR, DNA barcoding, and species identification, applied to questions of seafood sustainability.
