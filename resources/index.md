@@ -7,17 +7,9 @@ nav:
 
 Under this page you can find protocols, working information for the group, among other information. Most of this is only relevant for members of the lab.
 
-## Lab meeting
-
-[Link to schedule for weekly lab meetings](https://git.geomar.de/mar-ecoevo-genomics/lab_wiki/-/wikis/Lab-Meeting)
-
-## Lab wiki
-
-[Find our lab wiki here](https://git.geomar.de/mar-ecoevo-genomics/lab_wiki/-/wikis/home)
-
 ## Code
 
-Code for newer papers can be found on my [github page](https://github.com/rsbrennan) or on the github of the lead author, typically. For older papers, please contact me.
+Code for newer papers can be found on my [personal github](https://github.com/rsbrennan) or [NOAA github](https://github.com/rsbrennan-NOAA) or on the github of the lead author, typically. Direct links to archived repos can be found in the paper.
 ​
 ## Protocols
 Below are a number of protocols I've used, modified, and tried to write up in a clear manner. Feel free to contact me with any questions.
