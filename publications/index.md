@@ -19,7 +19,7 @@ Myself and mentees shown in **bold**.
 
 ## Preprints and in review
 
-- **Hahn, A., Nascimento-Schulze, J.C., Avgerinou, G.**, Schmittmann, L., Rethemeier, J., Rath, W., **Brennan, R.S.**, Salinity adaptation in a copepod reveals contrasting genomic architectures and the limits of genomic offsets. In review., [bioRxiv] (https://doi.org/10.64898/2026.11.13.766083)
+- **Hahn, A., Nascimento-Schulze, J.C., Avgerinou, G.**, Schmittmann, L., Rethemeier, J., Rath, W., **Brennan, R.S.**, Salinity adaptation in a copepod reveals contrasting genomic architectures and the limits of genomic offsets. In review., [bioRxiv](https://doi.org/10.64898/2026.11.13.766083)
 
 - Toczydlowski, R.H., **Brennan, R.S.**, Crandall, E.D., Kelley, J.L., Pringle, J.M., Riginos, C., Wares, J.P. and Bradburd, G.S., 2025. Drivers of genetic diversity across the marine tree of life. [bioRxiv](https://doi.org/10.1101/2025.06.03.657718)
 
@@ -60,7 +60,7 @@ Myself and mentees shown in **bold**.
 
 ### 2023
 
-- Demayo, J.A., **Brennan, R.S.**, Pespeni, M.H., Finiguerra, M., Norton, L., Park, G., Baumann, H. and Dam, H.G., 2023. Simultaneous warming and acidification limit population fitness and reveal phenotype costs for a marine copepod. [Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2023.1033). 290(2006), 20231033.[pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/deMayo%20et%20al.%202023.pdf)
+- deMayo, J.A., **Brennan, R.S.**, Pespeni, M.H., Finiguerra, M., Norton, L., Park, G., Baumann, H. and Dam, H.G., 2023. Simultaneous warming and acidification limit population fitness and reveal phenotype costs for a marine copepod. [Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2023.1033). 290(2006), 20231033.[pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/deMayo%20et%20al.%202023.pdf)
 
 - Petak, C., Frati, L., **Brennan, R.S.**, Pespeni, M.H., 2023. Whole genome sequencing reveals regulatory and low pleiotropy variants underlie local adaptation to environmental variability in purple sea urchins. [The American Naturalist](https://www.journals.uchicago.edu/doi/10.1086/726013).
 
@@ -76,11 +76,11 @@ Myself and mentees shown in **bold**.
 - **Brennan, R.S.**, deMayo, J.A., Dam, H.G., Finiguerra, M., Baumann, H., Buffalo, V., Pespeni, M.H., 2022. Experimental evolution reveals the synergistic genomic mechanisms of adaptation to ocean warming and acidification in a marine copepod. [Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2201521119). 119 (38). [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-PNAS.pdf)
     - [Commentary in PNAS](https://doi.org/10.1073/pnas.2214263119)
 
-- **Brennan, R.S.**, DeMayo, J.A., Dam, H.G., Finiguerra, M.B., Baumann, H. and Pespeni, M.H., 2022. Loss of transcriptional plasticity but sustained adaptive capacity after adaptation to global change conditions in a marine copepod. [Nature Communications](https://www.nature.com/articles/s41467-022-28742-6), 13(1): 1-13. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-NatComms.pdf)
+- **Brennan, R.S.**, deMayo, J.A., Dam, H.G., Finiguerra, M.B., Baumann, H. and Pespeni, M.H., 2022. Loss of transcriptional plasticity but sustained adaptive capacity after adaptation to global change conditions in a marine copepod. [Nature Communications](https://www.nature.com/articles/s41467-022-28742-6), 13(1): 1-13. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Brennan_etal_2022-NatComms.pdf)
 
 ### 2021
 
-- Dam, H.G., DeMayo, J.A., Park, G., Norton, L., He, X., Finiguerra, M.B., Baumann H., **Brennan, R. S.**, Pespeni, M.H. (2021). Rapid, but limited, zooplankton adaptation to simultaneous warming and acidification. [Nature Climate Change](https://www.nature.com/articles/s41558-021-01131-5). 11: 780–786. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Dam_etal_2021-NCC.pdf)
+- Dam, H.G., deMayo, J.A., Park, G., Norton, L., He, X., Finiguerra, M.B., Baumann H., **Brennan, R. S.**, Pespeni, M.H. (2021). Rapid, but limited, zooplankton adaptation to simultaneous warming and acidification. [Nature Climate Change](https://www.nature.com/articles/s41558-021-01131-5). 11: 780–786. [pdf](https://github.com/brennan-research/brennan-research.github.io/blob/main/_pdfs/Dam_etal_2021-NCC.pdf)
     - [Press release](https://www.eurekalert.org/news-releases/926590)
 
 ### 2020
