@@ -5,8 +5,6 @@ nav:
   tooltip: Resources for the group
 ---
 
-Under this page you can find protocols, working information for the group, among other information. Most of this is only relevant for members of the lab.
-
 ## Code
 
 Code for newer papers can be found on my [personal github](https://github.com/rsbrennan) or [NOAA github](https://github.com/rsbrennan-NOAA) or on the github of the lead author, typically. Direct links to archived repos can be found in the paper.
